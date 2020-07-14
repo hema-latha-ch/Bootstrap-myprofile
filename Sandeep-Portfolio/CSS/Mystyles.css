@@ -1,6 +1,7 @@
 body
 {
-    background: #ccc;
+    background: url('../images/sandeep1.JPG');
+    background-position-y: 0pt;
 }
 #Header a:hover
 {
@@ -9,9 +10,9 @@ body
 #bg-img
 {
     background: url('../images/back.jpg');
-    background-size: 50%;
+    background-size: 100%;
     background-repeat: no-repeat;
-    min-height: 450px;
+    min-height: 500px;
 }
 #About
 {
