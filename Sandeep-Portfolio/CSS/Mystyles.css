@@ -1,7 +1,6 @@
 body
 {
-    background: url('../images/sandeep1.JPG');
-    background-position-y: 0pt;
+   background-image: url('../images/backgroundimages1.jpg');
 }
 #Header a:hover
 {
