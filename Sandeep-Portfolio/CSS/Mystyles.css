@@ -4,7 +4,7 @@ body
 }
 #Header a:hover
 {
-    color: #FFFF00
+    color: #00ff80;
 }
 #bg-img
 {
@@ -46,6 +46,28 @@ body
   padding: 10px 20px 10px 20px;
 }
 #EducationandExperience hr
+{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#EducationandExperience .card
+{
+    border-top: 03px solid #d63031;
+}
+#ContactMe span
+{
+   padding: 10px 20px 10px 20px;
+}
+#ContactMe hr
+{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#Certification span
+{
+    padding: 10px 20px 10px 20px;
+}
+#Certification hr
 {
     border-width: 2px;
     margin-top: 06px;
